@@ -1,0 +1,89 @@
+.topbar {
+  background-color: black;
+  color: white;
+  font-size: 22;
+  height: 20px;
+  padding: 20px;
+  border-width: 2px;
+  border-color: white;
+  width: 85%;
+  float: left;
+  text-align: left;
+  vertical-align: middle;
+
+}
+.login-button {
+  background-color: green;
+  color: white;
+  padding: 20px;
+  margin-left: 85%;
+  width: 15%;
+  height: 20px;
+  text-align: center;
+  vertical-align: middle;
+}
+.sections-bar {
+  background-color: darkblue;
+  border: solid;
+  border-width: 0px;
+  border-top-width: 1px;
+  border-bottom-width: 1px;
+  border-color: white;
+  height: 20px;
+  color: white;
+  padding: 10px;
+  width: 100%;
+  float: left;
+  vertical-align: middle;
+  display: flex;
+}
+.section-text {
+  width: 25%;
+  text-align: right;
+}
+.text-box-large {
+  height: 12%;
+  background-color: black;
+  color: white;
+  font-size: 10;
+  padding: 20px;
+}
+
+.top-left-text {
+  position: relative;
+  top: 8px;
+  left: 16px;
+  font-size: 24px;
+  height: 0px;
+  color: white;
+}
+
+.display-image-section {
+  background-color: white;
+  height: 20%;
+  color: black;
+  padding: 10px;
+  width: 100%;
+  float: left;
+  display: flex;
+}
+
+.image-text {
+  width: 30%;
+  padding: 2%;
+  color: black;
+  font-size: 18;
+}
+
+.display-image {
+  width: 100%;
+  height: 100%;
+}
+
+.bottom-description {
+  width: 100%;
+  color: white;
+  background-color: black;
+  font-size: 10;
+  height: 30%
+}
